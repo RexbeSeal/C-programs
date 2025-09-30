@@ -207,4 +207,5 @@ int main(int argc, char* argv[]) {
     printf("Изображение успешно модифицировано и сохранено!\n");
     return 0;
 }
+
 ```
